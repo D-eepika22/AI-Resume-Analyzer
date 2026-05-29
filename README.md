@@ -133,4 +133,3 @@ python -m streamlit run app.py
 ## Developed By
 Deepika 
 
-Hackathon Project 2026
