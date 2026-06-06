@@ -1,65 +1,65 @@
-#  AI Resume Analyzer #
+# AI Resume Analyzer #
 
 An AI-powered ATS Resume Analyzer built using Python, Streamlit, OpenRouter API, and LLMs.
 
 This project helps users analyze resumes for multiple job roles and provides:
-- ATS Score
-- Resume Feedback
-- Missing Skills
-- Interview Questions
-- Resume Improvements
-- AI-generated Suggestions
+ATS Score
+Resume Feedback
+Missing Skills
+Interview Questions
+Resume Improvements
+AI-generated Suggestions
 
 The system supports both:
-- PDF Resume Upload
-- Direct Resume Text Paste
+PDF Resume Upload
+Direct Resume Text Paste
 
 ##Features
 
 ##  Dynamic ATS Score Calculation
 The ATS score is calculated dynamically using:
-- Skills Matching
-- Experience Detection
-- Projects Analysis
-- Education Analysis
-- Achievements Detection
-- Resume Formatting
+Skills Matching
+ Experience Detection
+  Projects Analysis
+  Education Analysis
+  Achievements Detection
+  Resume Formatting
 
 
 ##  AI-Powered Resume Analysis
 The AI provides:
-- Professional Summary
-- Resume Strengths
-- Resume Weaknesses
-- Missing Skills
-- Improvement Suggestions
-- Recommended Projects
-- Interview Questions
+ Professional Summary
+ Resume Strengths
+ Resume Weaknesses
+ Missing Skills
+ Improvement Suggestions
+ Recommended Projects
+ Interview Questions
 
 
 ## Multi-Domain Support
 Supports resumes for:
 
 ###  Tech Roles
-- Web Developer
-- Frontend Developer
-- Backend Developer
-- Full Stack Developer
-- Python Developer
-- Software Engineer
-- AI Engineer
-- Machine Learning Engineer
-- Data Analyst
+Web Developer
+Frontend Developer
+Backend Developer
+Full Stack Developer
+Python Developer
+Software Engineer
+AI Engineer
+Machine Learning Engineer
+Data Analyst
 
 ###  Core Engineering Roles
-- ECE Engineer
-- Electrical Engineer
-- Mechanical Engineer
-- Civil Engineer
+ECE Engineer
+Electrical Engineer
+Mechanical Engineer
+Civil Engineer
 
 ### Management Roles
-- MBA
-- BBA
+MBA
+BBA
 
 
 
